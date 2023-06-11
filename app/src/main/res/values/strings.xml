@@ -6,6 +6,8 @@
     <string name="from">From</string>
     <string name="enter_your_value">Enter your value</string>
     <string name="submit">submit</string>
+    <string name="result">result</string>
+    <string name="enter_date">Enter date</string>
     <string-array name="rates">
         <item>"AED" </item>
         <item>"AFN" </item>
